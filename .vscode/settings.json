@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "git.enabled": true,
+    "git.path": "D:\\Apps\\Git\\bin\\git.exe",
+}
